@@ -34,9 +34,9 @@ file to include the ADN Sass for compilation:
 
 `sass/partials/_sidebar.scss`
 
-{% codeblock lang:sass %}
+``` sass
 @import "sidebar/adn";
-{% endcodeblock %}
+```
 
 ## <a name="step-3"></a>Configuring your App.net Variables
 
